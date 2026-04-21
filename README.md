@@ -1,4 +1,22 @@
 # TechStack 🔍
+## 🎬 Demo
+![TechStack Demo](demo.gif)
+
+*Technology stack detection and documentation*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Detection Results | ![detect](screenshots/detection.png) |
+| Dependency Graph | ![graph](screenshots/dep-graph.png) |
+| Report View | ![report](screenshots/report.png) |
+
+## Visual Description
+Detection results show discovered technologies with confidence. Dependency graph visualizes project structure and libraries. Report shows generated documentation with logos.
+
+---
+
+
 
 > **Technology Stack Detective** - Auto-Detect and Document Project Dependencies
 
